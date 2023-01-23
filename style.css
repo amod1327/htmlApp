@@ -1,0 +1,87 @@
+h1 {
+    color: whitesmoke;
+    font-size: 1.5em;   
+    text-align: center; 
+    background-color: rgba(245, 245, 245, 0.329);
+    background-image: url(../ahmed/2738.jpg);
+    padding: 150px;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: 70em;
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+  font-size: 1.1em;
+  text-align: left;
+  text-align: center; 
+}
+
+p {
+  color: rgb(42, 0, 61);
+  font-size: 1.5em;
+}
+
+h1 {font-family: Arial, sans-sertif;
+}
+
+h1 ,h2 ,h3 ,h4 ,h5 ,h6 {
+    font-family: 'Noto Sans SignWriting', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Press Start 2P', cursive;
+}
+
+p ,p22 {
+    font-family: 'Orbitron', sans-serif;
+} 
+
+body {
+    background-color: #b16af7;
+}
+
+non {
+    font-size: 1.50em;
+    font-family: 'Chakra Petch', sans-serif;
+    color: rgb(42, 0, 61);
+}
+
+.introduction {
+    font-weight: 900;
+}
+
+h3 ,h4 ,h5 ,h6 ,h7 {
+    color: rgb(255, 255, 255);
+    font-size: 1.1em
+}
+
+body {
+    text-align: center;
+}
+
+v2 {
+    background-position: bottom;
+}
+
+p26 {
+    color: #b16af7;
+}
+
+a:hover {
+    color: darkmagenta;
+}
+
+.gif {position: relative;
+    top: -78px;
+    left: 7%;
+ }
+
+
+p26 {background-image: url(../ahmed/meme-mdr.jpg);
+    position: absolute;
+    left: 0;
+    top: -10000px;
+    overflow: hidden;
+}
+p667 {color: #b16af7;
+}
